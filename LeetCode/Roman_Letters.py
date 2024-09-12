@@ -13,5 +13,4 @@ def romanToInt(self, s):
     values = [1, 5, 10, 50, 100, 500, 1000]
     first_number = 0
     last_number = 0
-    for i in range(len(s) -1, -1, -1):
-        
+    for i in range(len(s) -1, -1, -1):        for 
