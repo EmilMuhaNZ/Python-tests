@@ -22,7 +22,7 @@ def add_a_task(existing_list):
 
 def get_command():
     command = int(input("Please select an option: "))
-
+    return command
 
 def display_list(existing_list):
     if len(existing_list) == 0:
